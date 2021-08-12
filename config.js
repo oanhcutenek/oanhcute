@@ -76,25 +76,25 @@
 
   <meta name="viewport" content="width=device-width">
   
-  <title>lequi210922.github.io/README.md at main · lequi210922/lequi210922.github.io</title>
+  <title>lequi210922.github.io/config.js at main · lequi210922/lequi210922.github.io</title>
     <meta name="description" content="Contribute to lequi210922/lequi210922.github.io development by creating an account on GitHub.">
     <link rel="search" type="application/opensearchdescription+xml" href="/opensearch.xml" title="GitHub">
   <link rel="fluid-icon" href="https://github.com/fluidicon.png" title="GitHub">
   <meta property="fb:app_id" content="1401488693436528">
   <meta name="apple-itunes-app" content="app-id=1477376905" />
-    <meta name="twitter:image:src" content="https://opengraph.githubassets.com/6a8767d00b84a8d95a59df53d8321475a241a60cd1aca64a550909a94028f6e3/lequi210922/lequi210922.github.io" /><meta name="twitter:site" content="@github" /><meta name="twitter:card" content="summary_large_image" /><meta name="twitter:title" content="lequi210922.github.io/README.md at main · lequi210922/lequi210922.github.io" /><meta name="twitter:description" content="Contribute to lequi210922/lequi210922.github.io development by creating an account on GitHub." />
-    <meta property="og:image" content="https://opengraph.githubassets.com/6a8767d00b84a8d95a59df53d8321475a241a60cd1aca64a550909a94028f6e3/lequi210922/lequi210922.github.io" /><meta property="og:image:alt" content="Contribute to lequi210922/lequi210922.github.io development by creating an account on GitHub." /><meta property="og:image:width" content="1200" /><meta property="og:image:height" content="600" /><meta property="og:site_name" content="GitHub" /><meta property="og:type" content="object" /><meta property="og:title" content="lequi210922.github.io/README.md at main · lequi210922/lequi210922.github.io" /><meta property="og:url" content="https://github.com/lequi210922/lequi210922.github.io" /><meta property="og:description" content="Contribute to lequi210922/lequi210922.github.io development by creating an account on GitHub." />
+    <meta name="twitter:image:src" content="https://opengraph.githubassets.com/6a8767d00b84a8d95a59df53d8321475a241a60cd1aca64a550909a94028f6e3/lequi210922/lequi210922.github.io" /><meta name="twitter:site" content="@github" /><meta name="twitter:card" content="summary_large_image" /><meta name="twitter:title" content="lequi210922.github.io/config.js at main · lequi210922/lequi210922.github.io" /><meta name="twitter:description" content="Contribute to lequi210922/lequi210922.github.io development by creating an account on GitHub." />
+    <meta property="og:image" content="https://opengraph.githubassets.com/6a8767d00b84a8d95a59df53d8321475a241a60cd1aca64a550909a94028f6e3/lequi210922/lequi210922.github.io" /><meta property="og:image:alt" content="Contribute to lequi210922/lequi210922.github.io development by creating an account on GitHub." /><meta property="og:image:width" content="1200" /><meta property="og:image:height" content="600" /><meta property="og:site_name" content="GitHub" /><meta property="og:type" content="object" /><meta property="og:title" content="lequi210922.github.io/config.js at main · lequi210922/lequi210922.github.io" /><meta property="og:url" content="https://github.com/lequi210922/lequi210922.github.io" /><meta property="og:description" content="Contribute to lequi210922/lequi210922.github.io development by creating an account on GitHub." />
 
 
 
     
 
   <link rel="assets" href="https://github.githubassets.com/">
-    <link rel="shared-web-socket" href="wss://alive.github.com/_sockets/u/88811276/ws?session=eyJ2IjoiVjMiLCJ1Ijo4ODgxMTI3NiwicyI6NzM2MzAzMTAyLCJjIjoxODIxNjc4NTIwLCJ0IjoxNjI4NzYyODAwfQ==--c7bc42ab3e8c12eac4af663cc208ab15a88038b2b5b0e367e8db20ff8f3be598" data-refresh-url="/_alive" data-session-id="02318fe03c5caf7fb22754c10d80ba9b2764c9578561e05432a990ce29d00d70">
+    <link rel="shared-web-socket" href="wss://alive.github.com/_sockets/u/88811276/ws?session=eyJ2IjoiVjMiLCJ1Ijo4ODgxMTI3NiwicyI6NzM2MzAzMTAyLCJjIjoxOTAwNTU3MzczLCJ0IjoxNjI4NzYyODA5fQ==--4cd71ecf3fa3734fc2067adbe8f3779b7ebc7b3bb7500bd738096c3e944f7993" data-refresh-url="/_alive" data-session-id="02318fe03c5caf7fb22754c10d80ba9b2764c9578561e05432a990ce29d00d70">
     <link rel="shared-web-socket-src" href="/socket-worker-3f088aa2.js">
   <link rel="sudo-modal" href="/sessions/sudo_modal">
 
-  <meta name="request-id" content="7885:6089:5E1B:5D992:6114F2B0" data-pjax-transient="true" /><meta name="html-safe-nonce" content="38f8c57596275ad25240d679584e86f4fb8c5d2a35a886c6456ef1eb3ddb409f" data-pjax-transient="true" /><meta name="visitor-payload" content="eyJyZWZlcnJlciI6Imh0dHBzOi8vZ2l0aHViLmNvbS9sZXF1aTIxMDkyMi9sZXF1aTIxMDkyMi5naXRodWIuaW8iLCJyZXF1ZXN0X2lkIjoiNzg4NTo2MDg5OjVFMUI6NUQ5OTI6NjExNEYyQjAiLCJ2aXNpdG9yX2lkIjoiNjU0OTYzMjM5OTk1OTM1OTMwMyIsInJlZ2lvbl9lZGdlIjoic291dGhlYXN0YXNpYSIsInJlZ2lvbl9yZW5kZXIiOiJpYWQifQ==" data-pjax-transient="true" /><meta name="visitor-hmac" content="08de19e53d6776046da281c2ee96029bf50854ab061c37912b3b96c53da73e9c" data-pjax-transient="true" />
+  <meta name="request-id" content="7ED9:507B:159059:1B2886:6114F2B9" data-pjax-transient="true" /><meta name="html-safe-nonce" content="38f8c57596275ad25240d679584e86f4fb8c5d2a35a886c6456ef1eb3ddb409f" data-pjax-transient="true" /><meta name="visitor-payload" content="eyJyZWZlcnJlciI6Imh0dHBzOi8vZ2l0aHViLmNvbS9sZXF1aTIxMDkyMi9sZXF1aTIxMDkyMi5naXRodWIuaW8iLCJyZXF1ZXN0X2lkIjoiN0VEOTo1MDdCOjE1OTA1OToxQjI4ODY6NjExNEYyQjkiLCJ2aXNpdG9yX2lkIjoiNjU0OTYzMjM5OTk1OTM1OTMwMyIsInJlZ2lvbl9lZGdlIjoic291dGhlYXN0YXNpYSIsInJlZ2lvbl9yZW5kZXIiOiJpYWQifQ==" data-pjax-transient="true" /><meta name="visitor-hmac" content="a182ef4de7963d7896c20f86a63ccfd710bb621df2a34e52daf9782cdbbd1feb" data-pjax-transient="true" />
 
     <meta name="hovercard-subject-tag" content="repository:392982820" data-pjax-transient>
 
@@ -133,7 +133,7 @@
 
       <meta name="expected-hostname" content="github.com">
 
-      <meta name="js-proxy-site-detection-payload" content="YTA4NDAzZGFjM2UwNmIxM2I3NTgzOTgzNmJmNDhlMWMyMzU3N2QxNWY5N2Y5OGJiNjA0ODY1Y2IwNDcwYWEzNnx7InJlbW90ZV9hZGRyZXNzIjoiMTEzLjIzLjkxLjI1NCIsInJlcXVlc3RfaWQiOiI3ODg1OjYwODk6NUUxQjo1RDk5Mjo2MTE0RjJCMCIsInRpbWVzdGFtcCI6MTYyODc2MjgwMCwiaG9zdCI6ImdpdGh1Yi5jb20ifQ==">
+      <meta name="js-proxy-site-detection-payload" content="ZjE5ZmJjZDRlZWJiODI1YWViNGE3NmE0ZWM0MDg0MjhmN2E4ZmUzNGVjMTM2NWFjYzMzY2MxYjRlZGJhY2ZjOHx7InJlbW90ZV9hZGRyZXNzIjoiMTEzLjIzLjkxLjI1NCIsInJlcXVlc3RfaWQiOiI3RUQ5OjUwN0I6MTU5MDU5OjFCMjg4Njo2MTE0RjJCOSIsInRpbWVzdGFtcCI6MTYyODc2MjgwOSwiaG9zdCI6ImdpdGh1Yi5jb20ifQ==">
 
     <meta name="enabled-features" content="MARKETPLACE_PENDING_INSTALLATIONS,GITHUB_TOKEN_PERMISSION">
 
@@ -147,7 +147,7 @@
 
 
 
-    <link rel="canonical" href="https://github.com/lequi210922/lequi210922.github.io/blob/main/README.md" data-pjax-transient>
+    <link rel="canonical" href="https://github.com/lequi210922/lequi210922.github.io/blob/main/config.js" data-pjax-transient>
 
 
   <meta name="browser-stats-url" content="https://api.github.com/_private/browser/stats">
@@ -189,7 +189,7 @@
   href="https://github.com/"
   data-hotkey="g d"
   aria-label="Homepage "
-  data-hydro-click="{&quot;event_type&quot;:&quot;analytics.event&quot;,&quot;payload&quot;:{&quot;category&quot;:&quot;Header&quot;,&quot;action&quot;:&quot;go to dashboard&quot;,&quot;label&quot;:&quot;icon:logo&quot;,&quot;originating_url&quot;:&quot;https://github.com/lequi210922/lequi210922.github.io/blob/main/README.md&quot;,&quot;user_id&quot;:88811276}}" data-hydro-click-hmac="02864830af9daea7a3fa4431837ca0abd1e829263498bab5498d7410c128de57"
+  data-hydro-click="{&quot;event_type&quot;:&quot;analytics.event&quot;,&quot;payload&quot;:{&quot;category&quot;:&quot;Header&quot;,&quot;action&quot;:&quot;go to dashboard&quot;,&quot;label&quot;:&quot;icon:logo&quot;,&quot;originating_url&quot;:&quot;https://github.com/lequi210922/lequi210922.github.io/blob/main/config.js&quot;,&quot;user_id&quot;:88811276}}" data-hydro-click-hmac="40cd2c1300883627ad566fc69298e1a66338da06c543c39fb10dacc7aedf8c5e"
 >
   <svg height="32" aria-hidden="true" viewBox="0 0 16 16" version="1.1" width="32" data-view-component="true" class="octicon octicon-mark-github v-align-middle">
     <path fill-rule="evenodd" d="M8 0C3.58 0 0 3.58 0 8c0 3.54 2.29 6.53 5.47 7.59.4.07.55-.17.55-.38 0-.19-.01-.82-.01-1.49-2.01.37-2.53-.49-2.69-.94-.09-.23-.48-.94-.82-1.13-.28-.15-.68-.52-.01-.53.63-.01 1.08.58 1.23.82.72 1.21 1.87.87 2.33.66.07-.52.28-.87.51-1.07-1.78-.2-3.64-.89-3.64-3.95 0-.87.31-1.59.82-2.15-.08-.2-.36-1.02.08-2.12 0 0 .67-.21 2.2.82.64-.18 1.32-.27 2-.27.68 0 1.36.09 2 .27 1.53-1.04 2.2-.82 2.2-.82.44 1.1.16 1.92.08 2.12.51.56.82 1.27.82 2.15 0 3.07-1.87 3.75-3.65 3.95.29.25.54.73.54 1.48 0 1.07-.01 1.93-.01 2.2 0 .21.15.46.55.38A8.013 8.013 0 0016 8c0-4.42-3.58-8-8-8z"></path>
@@ -235,7 +235,7 @@
           spellcheck="false"
           autocomplete="off"
         >
-        <input type="hidden" value="RpNCmxEmYHZmnhHEVGyb/pxL0boOvGB40ZwJn/IfUqJvqkv/TCyMGPOxbpKycOZtHBKgxxPwv61hqtybKy1gtg==" data-csrf="true" class="js-data-jump-to-suggestions-path-csrf" />
+        <input type="hidden" value="DLeezRonJC5YTjYetnoPZEB9WjFefDmgHjsudAo/VAgljpepRy3IQM1hSUhQZnL3wCQrTEMw5nWuDftw0w1mHA==" data-csrf="true" class="js-data-jump-to-suggestions-path-csrf" />
         <input type="hidden" class="js-site-search-type-field" name="type" >
             <svg xmlns="http://www.w3.org/2000/svg" width="22" height="20" class="mr-1 header-search-key-slash"><path fill="none" stroke="#979A9C" opacity=".4" d="M3.5.5h12c1.7 0 3 1.3 3 3v13c0 1.7-1.3 3-3 3h-12c-1.7 0-3-1.3-3-3v-13c0-1.7 1.3-3 3-3z"></path><path fill="#979A9C" d="M11.8 6L8 15.1h-.9L10.8 6h1z"></path></svg>
 
@@ -415,7 +415,7 @@
     <a class="js-selected-navigation-item Header-link d-block d-md-none py-2 py-md-3 border-top border-md-top-0 border-white-fade" data-ga-click="Header, click, Nav menu - item:workspaces context:user" data-selected-links="/codespaces /codespaces" href="/codespaces">
       Codespaces
 </a>
-      <a class="js-selected-navigation-item Header-link d-block d-md-none py-2 py-md-3 border-top border-md-top-0 border-white-fade" data-ga-click="Header, click, Nav menu - item:Sponsors" data-hydro-click="{&quot;event_type&quot;:&quot;sponsors.button_click&quot;,&quot;payload&quot;:{&quot;button&quot;:&quot;HEADER_SPONSORS_DASHBOARD&quot;,&quot;sponsorable_login&quot;:&quot;oanhcutenek&quot;,&quot;originating_url&quot;:&quot;https://github.com/lequi210922/lequi210922.github.io/blob/main/README.md&quot;,&quot;user_id&quot;:88811276}}" data-hydro-click-hmac="dbcb823dab45bd68b9f5cf04f73f1f4f73f77bc9ace8cf6f104a9866763c68b5" data-selected-links=" /sponsors/accounts" href="/sponsors/accounts">Sponsors</a>
+      <a class="js-selected-navigation-item Header-link d-block d-md-none py-2 py-md-3 border-top border-md-top-0 border-white-fade" data-ga-click="Header, click, Nav menu - item:Sponsors" data-hydro-click="{&quot;event_type&quot;:&quot;sponsors.button_click&quot;,&quot;payload&quot;:{&quot;button&quot;:&quot;HEADER_SPONSORS_DASHBOARD&quot;,&quot;sponsorable_login&quot;:&quot;oanhcutenek&quot;,&quot;originating_url&quot;:&quot;https://github.com/lequi210922/lequi210922.github.io/blob/main/config.js&quot;,&quot;user_id&quot;:88811276}}" data-hydro-click-hmac="edc3942573eb37ea583f6bed07c385c52ddc5beb40944f48f97f6b660836f184" data-selected-links=" /sponsors/accounts" href="/sponsors/accounts">Sponsors</a>
 
     <a class="Header-link d-block d-md-none mr-0 mr-md-3 py-2 py-md-3 border-top border-md-top-0 border-white-fade" href="/settings/profile">
       Settings
@@ -424,12 +424,12 @@
       <img class="avatar avatar-user" loading="lazy" decoding="async" src="https://avatars.githubusercontent.com/u/88811276?s=40&amp;v=4" width="20" height="20" alt="@oanhcutenek" />
       oanhcutenek
 </a>
-    <!-- '"` --><!-- </textarea></xmp> --></option></form><form action="/logout" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="XCC3W7lWYyV6wSmFce2P7x4F1dYHsXZMukApynOcqLHhRXOIjkXdWwwgcNgY7B9go9fGoi7uSvoAbLJ437X7PQ==" />
+    <!-- '"` --><!-- </textarea></xmp> --></option></form><form action="/logout" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="MZ6Q8vlwCe9zaUWnNv0/g6grTlROwsCT7k0SMNlQg1GM+1QhzmO3kQWIHPpf/K8MFfldIGed/CVUYYmCdXnQ3Q==" />
       <button
         type="submit"
         class="Header-link mr-0 mr-md-3 py-2 py-md-3 border-top border-md-top-0 border-white-fade d-md-none btn-link d-block width-full text-left"
         style="padding-left: 2px;"
-        data-hydro-click="{&quot;event_type&quot;:&quot;analytics.event&quot;,&quot;payload&quot;:{&quot;category&quot;:&quot;Header&quot;,&quot;action&quot;:&quot;sign out&quot;,&quot;label&quot;:&quot;icon:logout&quot;,&quot;originating_url&quot;:&quot;https://github.com/lequi210922/lequi210922.github.io/blob/main/README.md&quot;,&quot;user_id&quot;:88811276}}" data-hydro-click-hmac="644ca9f2c983ed7daf4c630c25207fd089b1c53232579c0d66399138a88c498d"
+        data-hydro-click="{&quot;event_type&quot;:&quot;analytics.event&quot;,&quot;payload&quot;:{&quot;category&quot;:&quot;Header&quot;,&quot;action&quot;:&quot;sign out&quot;,&quot;label&quot;:&quot;icon:logout&quot;,&quot;originating_url&quot;:&quot;https://github.com/lequi210922/lequi210922.github.io/blob/main/config.js&quot;,&quot;user_id&quot;:88811276}}" data-hydro-click-hmac="c985e2dad327c7cff9073d6fdec205766ac6911687633e7c904b43657e60bcbd"
       >
         <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-sign-out v-align-middle">
     <path fill-rule="evenodd" d="M2 2.75C2 1.784 2.784 1 3.75 1h2.5a.75.75 0 010 1.5h-2.5a.25.25 0 00-.25.25v10.5c0 .138.112.25.25.25h2.5a.75.75 0 010 1.5h-2.5A1.75 1.75 0 012 13.25V2.75zm10.44 4.5H6.75a.75.75 0 000 1.5h5.69l-1.97 1.97a.75.75 0 101.06 1.06l3.25-3.25a.75.75 0 000-1.06l-3.25-3.25a.75.75 0 10-1.06 1.06l1.97 1.97z"></path>
@@ -446,7 +446,7 @@
   href="https://github.com/"
   data-hotkey="g d"
   aria-label="Homepage "
-  data-hydro-click="{&quot;event_type&quot;:&quot;analytics.event&quot;,&quot;payload&quot;:{&quot;category&quot;:&quot;Header&quot;,&quot;action&quot;:&quot;go to dashboard&quot;,&quot;label&quot;:&quot;icon:logo&quot;,&quot;originating_url&quot;:&quot;https://github.com/lequi210922/lequi210922.github.io/blob/main/README.md&quot;,&quot;user_id&quot;:88811276}}" data-hydro-click-hmac="02864830af9daea7a3fa4431837ca0abd1e829263498bab5498d7410c128de57"
+  data-hydro-click="{&quot;event_type&quot;:&quot;analytics.event&quot;,&quot;payload&quot;:{&quot;category&quot;:&quot;Header&quot;,&quot;action&quot;:&quot;go to dashboard&quot;,&quot;label&quot;:&quot;icon:logo&quot;,&quot;originating_url&quot;:&quot;https://github.com/lequi210922/lequi210922.github.io/blob/main/config.js&quot;,&quot;user_id&quot;:88811276}}" data-hydro-click-hmac="40cd2c1300883627ad566fc69298e1a66338da06c543c39fb10dacc7aedf8c5e"
 >
   <svg height="32" aria-hidden="true" viewBox="0 0 16 16" version="1.1" width="32" data-view-component="true" class="octicon octicon-mark-github v-align-middle">
     <path fill-rule="evenodd" d="M8 0C3.58 0 0 3.58 0 8c0 3.54 2.29 6.53 5.47 7.59.4.07.55-.17.55-.38 0-.19-.01-.82-.01-1.49-2.01.37-2.53-.49-2.69-.94-.09-.23-.48-.94-.82-1.13-.28-.15-.68-.52-.01-.53.63-.01 1.08.58 1.23.82.72 1.21 1.87.87 2.33.66.07-.52.28-.87.51-1.07-1.78-.2-3.64-.89-3.64-3.95 0-.87.31-1.59.82-2.15-.08-.2-.36-1.02.08-2.12 0 0 .67-.21 2.2.82.64-.18 1.32-.27 2-.27.68 0 1.36.09 2 .27 1.53-1.04 2.2-.82 2.2-.82.44 1.1.16 1.92.08 2.12.51.56.82 1.27.82 2.15 0 3.07-1.87 3.75-3.65 3.95.29.25.54.73.54 1.48 0 1.07-.01 1.93-.01 2.2 0 .21.15.46.55.38A8.013 8.013 0 0016 8c0-4.42-3.58-8-8-8z"></path>
@@ -463,7 +463,7 @@
       <notification-indicator
         class="js-socket-channel"
         data-test-selector="notifications-indicator"
-        data-channel="eyJjIjoibm90aWZpY2F0aW9uLWNoYW5nZWQ6ODg4MTEyNzYiLCJ0IjoxNjI4NzYyODAwfQ==--c35f69094898292007e404c2a21c795a2cccb7c6c7750a9d4e4d6c927ab88561">
+        data-channel="eyJjIjoibm90aWZpY2F0aW9uLWNoYW5nZWQ6ODg4MTEyNzYiLCJ0IjoxNjI4NzYyODA5fQ==--6ec5e4392f1bf7238c9bdd56cf24ef3441c7b730406c8eba91cd0dba55086bb2">
         <a href="/notifications"
           class="Header-link notification-indicator position-relative tooltipped tooltipped-sw"
           
@@ -486,7 +486,7 @@
   <summary
     class="Header-link"
     aria-label="Create new…"
-    data-hydro-click="{&quot;event_type&quot;:&quot;analytics.event&quot;,&quot;payload&quot;:{&quot;category&quot;:&quot;Header&quot;,&quot;action&quot;:&quot;create new&quot;,&quot;label&quot;:&quot;icon:add&quot;,&quot;originating_url&quot;:&quot;https://github.com/lequi210922/lequi210922.github.io/blob/main/README.md&quot;,&quot;user_id&quot;:88811276}}" data-hydro-click-hmac="4bad9648d41b194c03a12eb8efc51beef47b81453a6da897ba695c42050be943"
+    data-hydro-click="{&quot;event_type&quot;:&quot;analytics.event&quot;,&quot;payload&quot;:{&quot;category&quot;:&quot;Header&quot;,&quot;action&quot;:&quot;create new&quot;,&quot;label&quot;:&quot;icon:add&quot;,&quot;originating_url&quot;:&quot;https://github.com/lequi210922/lequi210922.github.io/blob/main/config.js&quot;,&quot;user_id&quot;:88811276}}" data-hydro-click-hmac="7bc740d0e71b32fd48bf0ff888ffba43867f28216df7ab045a7a993e335d022c"
   >
       <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-plus">
     <path fill-rule="evenodd" d="M7.75 2a.75.75 0 01.75.75V7h4.25a.75.75 0 110 1.5H8.5v4.25a.75.75 0 11-1.5 0V8.5H2.75a.75.75 0 010-1.5H7V2.75A.75.75 0 017.75 2z"></path>
@@ -524,7 +524,7 @@
   <summary
     class="Header-link"
     aria-label="View profile and more"
-    data-hydro-click="{&quot;event_type&quot;:&quot;analytics.event&quot;,&quot;payload&quot;:{&quot;category&quot;:&quot;Header&quot;,&quot;action&quot;:&quot;show menu&quot;,&quot;label&quot;:&quot;icon:avatar&quot;,&quot;originating_url&quot;:&quot;https://github.com/lequi210922/lequi210922.github.io/blob/main/README.md&quot;,&quot;user_id&quot;:88811276}}" data-hydro-click-hmac="b89fd1bebc2e6ded6f29c14069de9153c589ae933144b9c59c919b75fe09b4f6"
+    data-hydro-click="{&quot;event_type&quot;:&quot;analytics.event&quot;,&quot;payload&quot;:{&quot;category&quot;:&quot;Header&quot;,&quot;action&quot;:&quot;show menu&quot;,&quot;label&quot;:&quot;icon:avatar&quot;,&quot;originating_url&quot;:&quot;https://github.com/lequi210922/lequi210922.github.io/blob/main/config.js&quot;,&quot;user_id&quot;:88811276}}" data-hydro-click-hmac="d00b978b06e3831a59f96d82b919eef189549de7c57250c90fb762a48832cdc1"
   >
     <img src="https://avatars.githubusercontent.com/u/88811276?s=60&amp;v=4" alt="@oanhcutenek" size="20" height="20" width="20" data-view-component="true" class="avatar-user avatar avatar-small"></img>
       <span class="feature-preview-indicator js-feature-preview-indicator" style="top: 1px;" hidden></span>
@@ -637,7 +637,7 @@
         data-action="toggle:notifications-list-subscription-form#detailsToggled"
       >
 
-      <summary class="btn btn-sm rounded-right-0" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;WATCH_BUTTON&quot;,&quot;repository_id&quot;:392982820,&quot;originating_url&quot;:&quot;https://github.com/lequi210922/lequi210922.github.io/blob/main/README.md&quot;,&quot;user_id&quot;:88811276}}" data-hydro-click-hmac="6f8f4c3f10569a20a9ef2b596bb6163e3cb281615e70f3950b426c97ad6c90bf" data-ga-click="Repository, click Watch settings, action:blob#show" aria-label="Notifications settings">
+      <summary class="btn btn-sm rounded-right-0" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;WATCH_BUTTON&quot;,&quot;repository_id&quot;:392982820,&quot;originating_url&quot;:&quot;https://github.com/lequi210922/lequi210922.github.io/blob/main/config.js&quot;,&quot;user_id&quot;:88811276}}" data-hydro-click-hmac="089fb8ad1c0aeb7a50e10a6836f93f9c748c0fdbd75bf1e204e702549713ffcc" data-ga-click="Repository, click Watch settings, action:blob#show" aria-label="Notifications settings">
           <span data-menu-button>
             <span
               hidden
@@ -689,7 +689,7 @@
             </header>
 
             <div class="SelectMenu-list">
-              <form data-target="notifications-list-subscription-form.form" data-action="submit:notifications-list-subscription-form#submitForm" action="/notifications/subscribe" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="cICfZiwAgZbfgnFnz5xvYh0HHR4C63nMskLN3zUwLL59RacqL51andUw0PUFY4OsBq+pmoosjkwZjWvNQUxutA==" />
+              <form data-target="notifications-list-subscription-form.form" data-action="submit:notifications-list-subscription-form#submitForm" action="/notifications/subscribe" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="SNe42pOWTv/dBj6m+3r6IHLKIiEzjWFiKxdFR8YS6nhFEoCWkAuV9Ne0nzQxhRbuaWKWpbtKluKA2ONVsm6ocg==" />
 
                 <input type="hidden" name="repository_id" value="392982820">
 
@@ -812,7 +812,7 @@
 
         <details-dialog class="notifications-component-dialog " data-target="notifications-list-subscription-form.customDialog" hidden>
           <div class="SelectMenu-modal notifications-component-dialog-modal overflow-visible">
-            <form data-target="notifications-list-subscription-form.customform" data-action="submit:notifications-list-subscription-form#submitCustomForm" action="/notifications/subscribe" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="BcguZFoxmRJ/8Up3hotxogXL+aHLJcoyVa7nXOc2rj8IDRYoWaxCGXVD6+VMdJ1sHmNNJUPiPbL+YUFOk0rsNQ==" />
+            <form data-target="notifications-list-subscription-form.customform" data-action="submit:notifications-list-subscription-form#submitCustomForm" action="/notifications/subscribe" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="e+kvh76sDSxyXD+WsDVGjGok94rhsErtp7I2DemAYGB2LBfLvTHWJ3jungR6yqpCcYxDDml3vW0MfZAfnfwiag==" />
 
               <input type="hidden" name="repository_id" value="392982820">
 
@@ -971,9 +971,9 @@
 
   <li>
         <div class="d-block js-toggler-container js-social-container starring-container ">
-    <form class="starred js-social-form" action="/lequi210922/lequi210922.github.io/unstar" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="XYU/w59qe4iqQ4mxTS6fk8TcKl9IDh74rxddr2ICXEHHHBNwVl7X+NS+dX3DrXpsRKnjOBfP3TFRTnJPkL5OjQ==" />
+    <form class="starred js-social-form" action="/lequi210922/lequi210922.github.io/unstar" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="JBw72x6dVqAu/S8vfV5BrAKKtoredYJEW66VTA+SdrW+hRdo16n60FAA0+Pz3aRTgv9/7YG0QY2l97qs/S5keQ==" />
       <input type="hidden" name="context" value="repository">
-      <button type="submit" class="btn btn-sm btn-with-count  js-toggler-target" aria-label="Unstar this repository" title="Unstar lequi210922/lequi210922.github.io" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;UNSTAR_BUTTON&quot;,&quot;repository_id&quot;:392982820,&quot;originating_url&quot;:&quot;https://github.com/lequi210922/lequi210922.github.io/blob/main/README.md&quot;,&quot;user_id&quot;:88811276}}" data-hydro-click-hmac="7498e5b9dd03a550be202030820eda6fcb70f711c6f9e83725dd622403f24a0d" data-ga-click="Repository, click unstar button, action:blob#show; text:Unstar">        <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-star-fill mr-1">
+      <button type="submit" class="btn btn-sm btn-with-count  js-toggler-target" aria-label="Unstar this repository" title="Unstar lequi210922/lequi210922.github.io" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;UNSTAR_BUTTON&quot;,&quot;repository_id&quot;:392982820,&quot;originating_url&quot;:&quot;https://github.com/lequi210922/lequi210922.github.io/blob/main/config.js&quot;,&quot;user_id&quot;:88811276}}" data-hydro-click-hmac="f69c167508b0785b7c7e58b148568ac4116208e290c42999e6f63c9bb0a8ded9" data-ga-click="Repository, click unstar button, action:blob#show; text:Unstar">        <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-star-fill mr-1">
     <path fill-rule="evenodd" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25z"></path>
 </svg>
         <span data-view-component="true">
@@ -983,9 +983,9 @@
            0
         </a>
 </form>
-    <form class="unstarred js-social-form" action="/lequi210922/lequi210922.github.io/star" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="2cky8JkcBfxfcFU+dB1ap/sgwPs6IJ14ZYEIqRO8kcbSviDhV4shmPL9zOzTtepgNoutYU7uao/sUZYoBuQsTQ==" />
+    <form class="unstarred js-social-form" action="/lequi210922/lequi210922.github.io/star" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="VCxC0bXhXYCy5msw8tUr5kCBKTvmU1cVWTegPt2p/dJfW1DAe3Z55B9r8uJVfZshjSpEoZKdoOLQ5z6/yPFAWQ==" />
       <input type="hidden" name="context" value="repository">
-      <button type="submit" class="btn btn-sm btn-with-count  js-toggler-target" aria-label="Unstar this repository" title="Star lequi210922/lequi210922.github.io" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;STAR_BUTTON&quot;,&quot;repository_id&quot;:392982820,&quot;originating_url&quot;:&quot;https://github.com/lequi210922/lequi210922.github.io/blob/main/README.md&quot;,&quot;user_id&quot;:88811276}}" data-hydro-click-hmac="54e06aeea3a301ad210c0b925af72dbf9d26ee0eca81f40fda1683331b6cf89e" data-ga-click="Repository, click star button, action:blob#show; text:Star">        <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-star mr-1">
+      <button type="submit" class="btn btn-sm btn-with-count  js-toggler-target" aria-label="Unstar this repository" title="Star lequi210922/lequi210922.github.io" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;STAR_BUTTON&quot;,&quot;repository_id&quot;:392982820,&quot;originating_url&quot;:&quot;https://github.com/lequi210922/lequi210922.github.io/blob/main/config.js&quot;,&quot;user_id&quot;:88811276}}" data-hydro-click-hmac="66cc420a94bbc542374bc7b8db1cfedecf15133f2a8ab1cfe6d9b9164b12c035" data-ga-click="Repository, click star button, action:blob#show; text:Star">        <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-star mr-1">
     <path fill-rule="evenodd" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25zm0 2.445L6.615 5.5a.75.75 0 01-.564.41l-3.097.45 2.24 2.184a.75.75 0 01.216.664l-.528 3.084 2.769-1.456a.75.75 0 01.698 0l2.77 1.456-.53-3.084a.75.75 0 01.216-.664l2.24-2.183-3.096-.45a.75.75 0 01-.564-.41L8 2.694v.001z"></path>
 </svg>
         <span data-view-component="true">
@@ -999,8 +999,8 @@
   </li>
 
   <li>
-            <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="btn-with-count" action="/lequi210922/lequi210922.github.io/fork" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="G0T++uizolCjqSuU3EhIimRS/2VuHU1EizAnvO4J8S/LH3kmiAEsA4izKq7NKWAy08DTUKjfJbGDPhwuo3iQhA==" />
-              <button class="btn btn-sm btn-with-count" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;FORK_BUTTON&quot;,&quot;repository_id&quot;:392982820,&quot;originating_url&quot;:&quot;https://github.com/lequi210922/lequi210922.github.io/blob/main/README.md&quot;,&quot;user_id&quot;:88811276}}" data-hydro-click-hmac="2adfcb1a3d68b848b8fe493793e5ef69e951e59642bb8bf0d0091cdd42106080" data-ga-click="Repository, show fork modal, action:blob#show; text:Fork" type="submit" title="Fork your own copy of lequi210922/lequi210922.github.io to your account" aria-label="Fork your own copy of lequi210922/lequi210922.github.io to your account">                <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-repo-forked">
+            <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="btn-with-count" action="/lequi210922/lequi210922.github.io/fork" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="r74PlN4STiQSBQmUmUXTPkkc1bKGnkj0NUibncqZhkh/5YhIvqDAdzkfCK6IJPuG/o75h0BcIAE9RqAPh+jn4w==" />
+              <button class="btn btn-sm btn-with-count" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;FORK_BUTTON&quot;,&quot;repository_id&quot;:392982820,&quot;originating_url&quot;:&quot;https://github.com/lequi210922/lequi210922.github.io/blob/main/config.js&quot;,&quot;user_id&quot;:88811276}}" data-hydro-click-hmac="d040eff2b74e6cec2e3a7da2a0517c20d0127470e5b68a9b2f692da080e4d4cc" data-ga-click="Repository, show fork modal, action:blob#show; text:Fork" type="submit" title="Fork your own copy of lequi210922/lequi210922.github.io to your account" aria-label="Fork your own copy of lequi210922/lequi210922.github.io to your account">                <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-repo-forked">
     <path fill-rule="evenodd" d="M5 3.25a.75.75 0 11-1.5 0 .75.75 0 011.5 0zm0 2.122a2.25 2.25 0 10-1.5 0v.878A2.25 2.25 0 005.75 8.5h1.5v2.128a2.251 2.251 0 101.5 0V8.5h1.5a2.25 2.25 0 002.25-2.25v-.878a2.25 2.25 0 10-1.5 0v.878a.75.75 0 01-.75.75h-4.5A.75.75 0 015 6.25v-.878zm3.75 7.378a.75.75 0 11-1.5 0 .75.75 0 011.5 0zm3-8.75a.75.75 0 100-1.5.75.75 0 000 1.5z"></path>
 </svg>
                 Fork
@@ -1162,9 +1162,9 @@
   
 
 
-    <a class="d-none js-permalink-shortcut" data-hotkey="y" href="/lequi210922/lequi210922.github.io/blob/507e22c921330d7a1bb25faa10c66d1a7bc2d3cb/README.md">Permalink</a>
+    <a class="d-none js-permalink-shortcut" data-hotkey="y" href="/lequi210922/lequi210922.github.io/blob/507e22c921330d7a1bb25faa10c66d1a7bc2d3cb/config.js">Permalink</a>
 
-    <!-- blob contrib key: blob_contributors:v22:24cbb9d679c91f6ac353ca7add6dede8f3c37ce14376d7f4ae6c163df6374e7a -->
+    <!-- blob contrib key: blob_contributors:v22:87dd0429493318a30a8658d206580d9dff37e6f4b49d61e7420cb24264c30d19 -->
 
     <div class="d-flex flex-items-start flex-shrink-0 pb-3 flex-wrap flex-md-nowrap flex-justify-between flex-md-justify-start">
       
@@ -1249,7 +1249,7 @@
             </div>
 
               <template data-target="ref-selector.itemTemplate">
-  <a href="https://github.com/lequi210922/lequi210922.github.io/blob/{{ urlEncodedRefName }}/README.md" class="SelectMenu-item" role="menuitemradio" rel="nofollow" aria-checked="{{ isCurrent }}" data-index="{{ index }}">
+  <a href="https://github.com/lequi210922/lequi210922.github.io/blob/{{ urlEncodedRefName }}/config.js" class="SelectMenu-item" role="menuitemradio" rel="nofollow" aria-checked="{{ isCurrent }}" data-index="{{ index }}">
     <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-check SelectMenu-icon SelectMenu-icon--check">
     <path fill-rule="evenodd" d="M13.78 4.22a.75.75 0 010 1.06l-7.25 7.25a.75.75 0 01-1.06 0L2.22 9.28a.75.75 0 011.06-1.06L6 10.94l6.72-6.72a.75.75 0 011.06 0z"></path>
 </svg>
@@ -1289,7 +1289,7 @@
             </template>
 
               <template data-target="ref-selector.itemTemplate">
-  <a href="https://github.com/lequi210922/lequi210922.github.io/blob/{{ urlEncodedRefName }}/README.md" class="SelectMenu-item" role="menuitemradio" rel="nofollow" aria-checked="{{ isCurrent }}" data-index="{{ index }}">
+  <a href="https://github.com/lequi210922/lequi210922.github.io/blob/{{ urlEncodedRefName }}/config.js" class="SelectMenu-item" role="menuitemradio" rel="nofollow" aria-checked="{{ isCurrent }}" data-index="{{ index }}">
     <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-check SelectMenu-icon SelectMenu-icon--check">
     <path fill-rule="evenodd" d="M13.78 4.22a.75.75 0 010 1.06l-7.25 7.25a.75.75 0 01-1.06 0L2.22 9.28a.75.75 0 011.06-1.06L6 10.94l6.72-6.72a.75.75 0 011.06 0z"></path>
 </svg>
@@ -1320,7 +1320,50 @@
 </div>
 
       <h2 id="blob-path" class="breadcrumb flex-auto flex-self-center min-width-0 text-normal mx-2 width-full width-md-auto flex-order-1 flex-md-order-none mt-3 mt-md-0">
-        <span class="js-repo-root text-bold"><span class="js-path-segment d-inline-block wb-break-all"><a data-pjax="#repo-content-pjax-container" href="/lequi210922/lequi210922.github.io"><span>lequi210922.github.io</span></a></span></span><span class="separator">/</span><strong class="final-path">README.md</strong>
+        <span class="js-repo-root text-bold"><span class="js-path-segment d-inline-block wb-break-all"><a data-pjax="#repo-content-pjax-container" href="/lequi210922/lequi210922.github.io"><span>lequi210922.github.io</span></a></span></span><span class="separator">/</span><strong class="final-path">config.js</strong>
+          <span class="separator">/</span><details class="details-reset details-overlay d-inline" id="jumpto-symbol-select-menu">
+  <summary class="btn-link Link--secondary css-truncate" aria-haspopup="true" data-hotkey="r" data-hydro-click="{&quot;event_type&quot;:&quot;code_navigation.click_on_blob_definitions&quot;,&quot;payload&quot;:{&quot;action&quot;:&quot;click_on_blob_definitions&quot;,&quot;repository_id&quot;:392982820,&quot;ref&quot;:&quot;main&quot;,&quot;language&quot;:&quot;JavaScript&quot;,&quot;originating_url&quot;:&quot;https://github.com/lequi210922/lequi210922.github.io/blob/main/config.js&quot;,&quot;user_id&quot;:88811276}}" data-hydro-click-hmac="c9af5080c9ab069a0934463128251c23e18531e2a00ab124db9db63b98bdd82b">
+      <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-code">
+    <path fill-rule="evenodd" d="M4.72 3.22a.75.75 0 011.06 1.06L2.06 8l3.72 3.72a.75.75 0 11-1.06 1.06L.47 8.53a.75.75 0 010-1.06l4.25-4.25zm6.56 0a.75.75 0 10-1.06 1.06L13.94 8l-3.72 3.72a.75.75 0 101.06 1.06l4.25-4.25a.75.75 0 000-1.06l-4.25-4.25z"></path>
+</svg>
+    <span data-menu-button>Jump to</span>
+    <span class="dropdown-caret"></span>
+  </summary>
+  <details-menu class="SelectMenu SelectMenu--hasFilter" role="menu">
+    <div class="SelectMenu-modal">
+      <header class="SelectMenu-header">
+        <span class="SelectMenu-title">Code definitions</span>
+        <button class="SelectMenu-closeButton" type="button" data-toggle-for="jumpto-symbol-select-menu">
+          <svg aria-label="Close menu" role="img" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-x">
+    <path fill-rule="evenodd" d="M3.72 3.72a.75.75 0 011.06 0L8 6.94l3.22-3.22a.75.75 0 111.06 1.06L9.06 8l3.22 3.22a.75.75 0 11-1.06 1.06L8 9.06l-3.22 3.22a.75.75 0 01-1.06-1.06L6.94 8 3.72 4.78a.75.75 0 010-1.06z"></path>
+</svg>
+        </button>
+      </header>
+        <div class="SelectMenu-filter">
+          <input
+            class="SelectMenu-input form-control js-filterable-field"
+            id="jumpto-symbols-filter-field"
+            type="text"
+            autocomplete="off"
+            spellcheck="false"
+            autofocus
+            placeholder="Filter definitions"
+            aria-label="Filter definitions">
+        </div>
+      <div class="SelectMenu-list">
+        <div data-filterable-for="jumpto-symbols-filter-field" data-filterable-type="substring">
+        </div>
+      </div>
+      <footer class="SelectMenu-footer">
+        <div class="d-flex flex-justify-between">
+          Code navigation index up-to-date
+          <svg class="octicon octicon-dot-fill text-green" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"></path></svg>
+        </div>
+      </footer>
+    </div>
+  </details-menu>
+</details>
+
       </h2>
       <a href="/lequi210922/lequi210922.github.io/find/main"
             class="js-pjax-capture-input btn mr-2 d-none d-md-block"
@@ -1341,7 +1384,7 @@
 </summary>
   <div data-view-component="true">          <ul class="dropdown-menu dropdown-menu-sw">
             <li class="d-block d-md-none">
-              <a class="dropdown-item d-flex flex-items-baseline" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;FIND_FILE_BUTTON&quot;,&quot;repository_id&quot;:392982820,&quot;originating_url&quot;:&quot;https://github.com/lequi210922/lequi210922.github.io/blob/main/README.md&quot;,&quot;user_id&quot;:88811276}}" data-hydro-click-hmac="c0930fa8e267c3159bc97c7cc6f4efbcb1399b67f3357caa0ddd663476f71ec9" data-ga-click="Repository, find file, location:repo overview" data-hotkey="t" data-pjax="true" href="/lequi210922/lequi210922.github.io/find/main">
+              <a class="dropdown-item d-flex flex-items-baseline" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;FIND_FILE_BUTTON&quot;,&quot;repository_id&quot;:392982820,&quot;originating_url&quot;:&quot;https://github.com/lequi210922/lequi210922.github.io/blob/main/config.js&quot;,&quot;user_id&quot;:88811276}}" data-hydro-click-hmac="b6f582e670854d0b4667fe0fd327dd2b052f4f1dd997a82832ef61e3c7d49154" data-ga-click="Repository, find file, location:repo overview" data-hotkey="t" data-pjax="true" href="/lequi210922/lequi210922.github.io/find/main">
                 <span class="flex-auto">Go to file</span>
                 <span class="text-small color-text-secondary" aria-hidden="true">T</span>
 </a>            </li>
@@ -1353,14 +1396,22 @@
                 </span>
               </button>
             </li>
+            <li data-toggle-for="blob-more-options-details">
+              <button type="button" data-toggle-for="jumpto-symbol-select-menu" class="btn-link dropdown-item">
+                <span class="d-flex flex-items-baseline">
+                  <span class="flex-auto">Go to definition</span>
+                  <span class="text-small color-text-secondary" aria-hidden="true">R</span>
+                </span>
+              </button>
+            </li>
             <li class="dropdown-divider" role="none"></li>
             <li>
-              <clipboard-copy value="README.md" class="dropdown-item cursor-pointer" data-toggle-for="blob-more-options-details">
+              <clipboard-copy value="config.js" class="dropdown-item cursor-pointer" data-toggle-for="blob-more-options-details">
                 Copy path
               </clipboard-copy>
             </li>
             <li>
-              <clipboard-copy value="https://github.com/lequi210922/lequi210922.github.io/blob/507e22c921330d7a1bb25faa10c66d1a7bc2d3cb/README.md" class="dropdown-item cursor-pointer" data-toggle-for="blob-more-options-details" >
+              <clipboard-copy value="https://github.com/lequi210922/lequi210922.github.io/blob/507e22c921330d7a1bb25faa10c66d1a7bc2d3cb/config.js" class="dropdown-item cursor-pointer" data-toggle-for="blob-more-options-details" >
                 <span class="d-flex flex-items-baseline">
                   <span class="flex-auto">Copy permalink</span>
                 </span>
@@ -1374,7 +1425,7 @@
 
 
     <div class="Box d-flex flex-column flex-shrink-0 mb-3">
-      <include-fragment src="/lequi210922/lequi210922.github.io/contributors/main/README.md" class="commit-loader">
+      <include-fragment src="/lequi210922/lequi210922.github.io/contributors/main/config.js" class="commit-loader">
         <div class="Box-header hx_commit-tease d-flex flex-items-center">
           <div class="Skeleton avatar avatar-user flex-shrink-0 ml-n1 mr-n1 mt-n1 mb-n1" style="width:24px;height:24px;"></div>
           <div class="Skeleton Skeleton--text col-5 ml-2">&nbsp;</div>
@@ -1409,21 +1460,21 @@
 
   <div class="text-mono f6 flex-auto pr-3 flex-order-2 flex-md-order-1">
 
-      1 lines (1 sloc)
+      19 lines (19 sloc)
       <span class="file-info-divider"></span>
-    23 Bytes
+    934 Bytes
   </div>
 
   <div class="d-flex py-1 py-md-0 flex-auto flex-order-1 flex-md-order-2 flex-sm-grow-0 flex-justify-between hide-sm hide-md">
 
     <div class="BtnGroup">
-      <a href="/lequi210922/lequi210922.github.io/raw/main/README.md" id="raw-url" role="button" data-view-component="true" class="btn-sm btn BtnGroup-item">
+      <a href="/lequi210922/lequi210922.github.io/raw/main/config.js" id="raw-url" role="button" data-view-component="true" class="btn-sm btn BtnGroup-item">
   
   Raw
   
 
 </a>
-        <a href="/lequi210922/lequi210922.github.io/blame/main/README.md" data-hotkey="b" role="button" data-view-component="true" class="js-update-url-with-hash btn-sm btn BtnGroup-item">
+        <a href="/lequi210922/lequi210922.github.io/blame/main/config.js" data-hotkey="b" role="button" data-view-component="true" class="js-update-url-with-hash btn-sm btn BtnGroup-item">
   
   Blame
   
@@ -1442,7 +1493,7 @@
 </svg>
           </a>
 
-          <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="inline-form js-update-url-with-hash" action="/lequi210922/lequi210922.github.io/edit/main/README.md" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="uaPXro4EqPiQO0ES0hukmdeQ7IHyFmG9cWCEybIXzV5plwwrsbeekKFIVadiYeuEgGD6+golaRQdBoID9gOLzQ==" />
+          <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="inline-form js-update-url-with-hash" action="/lequi210922/lequi210922.github.io/edit/main/config.js" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="QVCEkp4qgmUQhfEdsIckA5MBXOAI0SWI83zUwu4FhxuVV6NjOCM2oVj37aWj8IX1BdUFt4bDh0brKE/7KII7ZA==" />
             <button class="btn-octicon tooltipped tooltipped-nw" type="submit"
               aria-label="Fork this project and edit the file" data-hotkey="e" data-disable-with>
               <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-pencil">
@@ -1450,7 +1501,7 @@
 </svg>
             </button>
 </form>
-          <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="inline-form" action="/lequi210922/lequi210922.github.io/delete/main/README.md" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="3iKtSawgCgRaRm9DgeI57JACwAVSP+RpDJ7Hj76WPwKGkQbUnxjbvo8vQqcJYlx5xTt4dQ6gL0WXUB0wUCQvTg==" />
+          <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="inline-form" action="/lequi210922/lequi210922.github.io/delete/main/config.js" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="QPrelvkUSFbxg8jCyMjgRchDlLy4S+qH1ZTvyaHZJ6tFAAP+p8+bmcmq+4hHkMId+2IqutjtlbjPBJGF6o/OSA==" />
             <button class="btn-octicon btn-octicon-danger tooltipped tooltipped-nw" type="submit"
               aria-label="Fork this project and delete the file" data-disable-with>
               <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-trash">
@@ -1478,22 +1529,22 @@
                 </a>
             </li>
           <li>
-            <a class="dropdown-item" href="/lequi210922/lequi210922.github.io/raw/main/README.md">
+            <a class="dropdown-item" href="/lequi210922/lequi210922.github.io/raw/main/config.js">
               View raw
             </a>
           </li>
             <li>
-              <a class="dropdown-item" href="/lequi210922/lequi210922.github.io/blame/main/README.md">
+              <a class="dropdown-item" href="/lequi210922/lequi210922.github.io/blame/main/config.js">
                 View blame
               </a>
             </li>
 
               <li class="dropdown-divider" role="none"></li>
               <li>
-                <a class="dropdown-item" href="/lequi210922/lequi210922.github.io/edit/main/README.md">Edit file</a>
+                <a class="dropdown-item" href="/lequi210922/lequi210922.github.io/edit/main/config.js">Edit file</a>
               </li>
               <li>
-                <a class="dropdown-item menu-item-danger" href="/lequi210922/lequi210922.github.io/delete/main/README.md">Delete file</a>
+                <a class="dropdown-item menu-item-danger" href="/lequi210922/lequi210922.github.io/delete/main/config.js">Delete file</a>
               </li>
         </ul>
       </details>
@@ -1501,9 +1552,116 @@
 </div>
 
 
-        <div id="readme" class="Box-body readme blob js-code-block-container p-5 p-xl-6 gist-border-0">
-    <article class="markdown-body entry-content container-lg" itemprop="text"><h1><a id="user-content-lequi210922githubio" class="anchor" aria-hidden="true" href="#lequi210922githubio"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a>lequi210922.github.io</h1>
-</article>
+      
+  <div itemprop="text" class="Box-body p-0 blob-wrapper data type-javascript  gist-border-0">
+
+      
+<table class="highlight tab-size js-file-line-container" data-tab-size="8" data-paste-markdown-skip>
+      <tr>
+        <td id="L1" class="blob-num js-line-number" data-line-number="1"></td>
+        <td id="LC1" class="blob-code blob-code-inner js-file-line"><span class=pl-k>const</span> <span class=pl-c1>CONFIG</span> <span class=pl-c1>=</span> <span class=pl-kos>{</span></td>
+      </tr>
+      <tr>
+        <td id="L2" class="blob-num js-line-number" data-line-number="2"></td>
+        <td id="LC2" class="blob-code blob-code-inner js-file-line">    <span class=pl-c1>introTitle</span>: <span class=pl-s>&#39;Bae à!&#39;</span><span class=pl-kos>,</span></td>
+      </tr>
+      <tr>
+        <td id="L3" class="blob-num js-line-number" data-line-number="3"></td>
+        <td id="LC3" class="blob-code blob-code-inner js-file-line">    <span class=pl-c1>introDesc</span>: <span class=pl-s>`Trái đất vốn lạ thường</span></td>
+      </tr>
+      <tr>
+        <td id="L4" class="blob-num js-line-number" data-line-number="4"></td>
+        <td id="LC4" class="blob-code blob-code-inner js-file-line"><span class=pl-s>    Mà sao em cứ đi nhầm đường</span></td>
+      </tr>
+      <tr>
+        <td id="L5" class="blob-num js-line-number" data-line-number="5"></td>
+        <td id="LC5" class="blob-code blob-code-inner js-file-line"><span class=pl-s>    Lạc vào tim anh lẻ loi</span></td>
+      </tr>
+      <tr>
+        <td id="L6" class="blob-num js-line-number" data-line-number="6"></td>
+        <td id="LC6" class="blob-code blob-code-inner js-file-line"><span class=pl-s>    Đằng sau chữ yêu đây là thương`</span><span class=pl-kos>,</span></td>
+      </tr>
+      <tr>
+        <td id="L7" class="blob-num js-line-number" data-line-number="7"></td>
+        <td id="LC7" class="blob-code blob-code-inner js-file-line">    <span class=pl-c1>btnIntro</span>: <span class=pl-s>&#39;HIHI&#39;</span><span class=pl-kos>,</span></td>
+      </tr>
+      <tr>
+        <td id="L8" class="blob-num js-line-number" data-line-number="8"></td>
+        <td id="LC8" class="blob-code blob-code-inner js-file-line">    <span class=pl-c1>title</span>: <span class=pl-s>&#39;Phải chăng em đã yêu ngay từ cái nhìn đầu tiên 😙&#39;</span><span class=pl-kos>,</span></td>
+      </tr>
+      <tr>
+        <td id="L9" class="blob-num js-line-number" data-line-number="9"></td>
+        <td id="LC9" class="blob-code blob-code-inner js-file-line">    <span class=pl-c1>desc</span>: <span class=pl-s>&#39;Phải chăng em đã say ngay từ lúc thấy nụ cười ấy &#39;</span><span class=pl-kos>,</span></td>
+      </tr>
+      <tr>
+        <td id="L10" class="blob-num js-line-number" data-line-number="10"></td>
+        <td id="LC10" class="blob-code blob-code-inner js-file-line">    <span class=pl-c1>btnYes</span>: <span class=pl-s>&#39;Vẫn cứ là thích anh &lt;33&#39;</span><span class=pl-kos>,</span></td>
+      </tr>
+      <tr>
+        <td id="L11" class="blob-num js-line-number" data-line-number="11"></td>
+        <td id="LC11" class="blob-code blob-code-inner js-file-line">    <span class=pl-c1>btnNo</span>: <span class=pl-s>&#39;Không, Anh trai à :3&#39;</span><span class=pl-kos>,</span></td>
+      </tr>
+      <tr>
+        <td id="L12" class="blob-num js-line-number" data-line-number="12"></td>
+        <td id="LC12" class="blob-code blob-code-inner js-file-line">    <span class=pl-c1>question</span>:<span class=pl-s>&#39;Trên thế giới hơn 7 tỉ người mà sao em lại yêu anh &lt;3&#39;</span><span class=pl-kos>,</span></td>
+      </tr>
+      <tr>
+        <td id="L13" class="blob-num js-line-number" data-line-number="13"></td>
+        <td id="LC13" class="blob-code blob-code-inner js-file-line">    <span class=pl-c1>btnReply</span>: <span class=pl-s>&#39;Gửi cho anh &lt;3&#39;</span><span class=pl-kos>,</span></td>
+      </tr>
+      <tr>
+        <td id="L14" class="blob-num js-line-number" data-line-number="14"></td>
+        <td id="LC14" class="blob-code blob-code-inner js-file-line">    <span class=pl-c1>reply</span>: <span class=pl-s>&#39;Yêu thì yêu mà không yêu thì yêu &lt;33333333&#39;</span><span class=pl-kos>,</span></td>
+      </tr>
+      <tr>
+        <td id="L15" class="blob-num js-line-number" data-line-number="15"></td>
+        <td id="LC15" class="blob-code blob-code-inner js-file-line">    <span class=pl-c1>mess</span>: <span class=pl-s>&#39;Anh biết mà 🥰. Yêu em nhiều nhiều 😘😘&#39;</span><span class=pl-kos>,</span></td>
+      </tr>
+      <tr>
+        <td id="L16" class="blob-num js-line-number" data-line-number="16"></td>
+        <td id="LC16" class="blob-code blob-code-inner js-file-line">    <span class=pl-c1>messDesc</span>: <span class=pl-s>&#39;Tối nay anh qua nhà em ngủ nhé, yêu em 3000.&#39;</span><span class=pl-kos>,</span></td>
+      </tr>
+      <tr>
+        <td id="L17" class="blob-num js-line-number" data-line-number="17"></td>
+        <td id="LC17" class="blob-code blob-code-inner js-file-line">    <span class=pl-c1>btnAccept</span>: <span class=pl-s>&#39;Tới luôn đi anh ơiiii&#39;</span><span class=pl-kos>,</span></td>
+      </tr>
+      <tr>
+        <td id="L18" class="blob-num js-line-number" data-line-number="18"></td>
+        <td id="LC18" class="blob-code blob-code-inner js-file-line">    <span class=pl-c1>messLink</span>: <span class=pl-s>&#39;http://fb.com&#39;</span> <span class=pl-c>//link mess của các bạn. VD: https://m.me/nam.nodemy</span></td>
+      </tr>
+      <tr>
+        <td id="L19" class="blob-num js-line-number" data-line-number="19"></td>
+        <td id="LC19" class="blob-code blob-code-inner js-file-line"><span class=pl-kos>}</span></td>
+      </tr>
+</table>
+
+  <details class="details-reset details-overlay BlobToolbar position-absolute js-file-line-actions dropdown d-none" aria-hidden="true">
+    <summary class="btn-octicon ml-0 px-2 p-0 color-bg-primary border color-border-tertiary rounded-1" aria-label="Inline file action toolbar">
+      <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-kebab-horizontal">
+    <path d="M8 9a1.5 1.5 0 100-3 1.5 1.5 0 000 3zM1.5 9a1.5 1.5 0 100-3 1.5 1.5 0 000 3zm13 0a1.5 1.5 0 100-3 1.5 1.5 0 000 3z"></path>
+</svg>
+    </summary>
+    <details-menu>
+
+      <ul class="BlobToolbar-dropdown dropdown-menu dropdown-menu-se ml-2 mt-2"
+      style="width:185px"
+      >
+        <li>
+          <clipboard-copy role="menuitem" class="dropdown-item" id="js-copy-lines" style="cursor:pointer;">
+            Copy lines
+          </clipboard-copy>
+        </li>
+        <li>
+          <clipboard-copy role="menuitem" class="dropdown-item" id="js-copy-permalink" style="cursor:pointer;">
+            Copy permalink
+          </clipboard-copy>
+        </li>
+        <li><a class="dropdown-item js-update-url-with-hash" id="js-view-git-blame" role="menuitem" href="/lequi210922/lequi210922.github.io/blame/507e22c921330d7a1bb25faa10c66d1a7bc2d3cb/config.js">View git blame</a></li>
+          <li><a class="dropdown-item" id="js-new-issue" role="menuitem" href="/lequi210922/lequi210922.github.io/issues/new">Reference in new issue</a></li>
+      </ul>
+    </details-menu>
+  </details>
+
   </div>
 
     </div>
@@ -1529,10 +1687,10 @@
      hidden
      data-tagsearch-url="/lequi210922/lequi210922.github.io/find-definition"
      data-tagsearch-ref="main"
-     data-tagsearch-path="README.md"
-     data-tagsearch-lang="Markdown"
-     data-hydro-click="{&quot;event_type&quot;:&quot;code_navigation.click_on_symbol&quot;,&quot;payload&quot;:{&quot;action&quot;:&quot;click_on_symbol&quot;,&quot;repository_id&quot;:392982820,&quot;ref&quot;:&quot;main&quot;,&quot;language&quot;:&quot;Markdown&quot;,&quot;originating_url&quot;:&quot;https://github.com/lequi210922/lequi210922.github.io/blob/main/README.md&quot;,&quot;user_id&quot;:88811276}}"
-     data-hydro-click-hmac="77fb54e677c45d2f4d8d2426bd5cc49801898d903e20753be034fad192368d8b">
+     data-tagsearch-path="config.js"
+     data-tagsearch-lang="JavaScript"
+     data-hydro-click="{&quot;event_type&quot;:&quot;code_navigation.click_on_symbol&quot;,&quot;payload&quot;:{&quot;action&quot;:&quot;click_on_symbol&quot;,&quot;repository_id&quot;:392982820,&quot;ref&quot;:&quot;main&quot;,&quot;language&quot;:&quot;JavaScript&quot;,&quot;originating_url&quot;:&quot;https://github.com/lequi210922/lequi210922.github.io/blob/main/config.js&quot;,&quot;user_id&quot;:88811276}}"
+     data-hydro-click-hmac="62835d9c71038235eec2933c93e62358d1d335ea39b6d00553a794f26384685f">
   <div class="Popover-message Popover-message--large Popover-message--top-left TagsearchPopover mt-1 mb-4 mx-auto Box color-shadow-large">
     <div class="TagsearchPopover-content js-tagsearch-popover-content overflow-auto" style="will-change:transform;">
     </div>
@@ -1557,10 +1715,10 @@
   <div class="position-relative d-flex flex-row-reverse flex-lg-row flex-wrap flex-lg-nowrap flex-justify-center flex-lg-justify-between pt-6 pb-2 mt-6 f6 color-text-secondary border-top color-border-secondary ">
     <ul class="list-style-none d-flex flex-wrap col-12 col-lg-5 flex-justify-center flex-lg-justify-between mb-2 mb-lg-0">
       <li class="mr-3 mr-lg-0">&copy; 2021 GitHub, Inc.</li>
-        <li class="mr-3 mr-lg-0"><a href="https://docs.github.com/en/github/site-policy/github-terms-of-service" data-hydro-click="{&quot;event_type&quot;:&quot;analytics.event&quot;,&quot;payload&quot;:{&quot;category&quot;:&quot;Footer&quot;,&quot;action&quot;:&quot;go to terms&quot;,&quot;label&quot;:&quot;text:terms&quot;,&quot;originating_url&quot;:&quot;https://github.com/lequi210922/lequi210922.github.io/blob/main/README.md&quot;,&quot;user_id&quot;:88811276}}" data-hydro-click-hmac="228d7d497824f00657d6b8215e5188880cddd8b515c894c7f2440d878dd43ee5">Terms</a></li>
-        <li class="mr-3 mr-lg-0"><a href="https://docs.github.com/en/github/site-policy/github-privacy-statement" data-hydro-click="{&quot;event_type&quot;:&quot;analytics.event&quot;,&quot;payload&quot;:{&quot;category&quot;:&quot;Footer&quot;,&quot;action&quot;:&quot;go to privacy&quot;,&quot;label&quot;:&quot;text:privacy&quot;,&quot;originating_url&quot;:&quot;https://github.com/lequi210922/lequi210922.github.io/blob/main/README.md&quot;,&quot;user_id&quot;:88811276}}" data-hydro-click-hmac="4d277e8c85a64d499b5ea020270d5f9ee7a5c537653e3102815f4bc6754fb402">Privacy</a></li>
-        <li class="mr-3 mr-lg-0"><a data-hydro-click="{&quot;event_type&quot;:&quot;analytics.event&quot;,&quot;payload&quot;:{&quot;category&quot;:&quot;Footer&quot;,&quot;action&quot;:&quot;go to security&quot;,&quot;label&quot;:&quot;text:security&quot;,&quot;originating_url&quot;:&quot;https://github.com/lequi210922/lequi210922.github.io/blob/main/README.md&quot;,&quot;user_id&quot;:88811276}}" data-hydro-click-hmac="fc070ecc0fc45b91fb5dd571e14c2702fc4e1e43ed24770473dfd89bc5a1b15e" href="https://github.com/security">Security</a></li>
-        <li class="mr-3 mr-lg-0"><a href="https://www.githubstatus.com/" data-hydro-click="{&quot;event_type&quot;:&quot;analytics.event&quot;,&quot;payload&quot;:{&quot;category&quot;:&quot;Footer&quot;,&quot;action&quot;:&quot;go to status&quot;,&quot;label&quot;:&quot;text:status&quot;,&quot;originating_url&quot;:&quot;https://github.com/lequi210922/lequi210922.github.io/blob/main/README.md&quot;,&quot;user_id&quot;:88811276}}" data-hydro-click-hmac="69e21324f1c816e9f04f267446dfd23c3a5d34eb351dc6570b0fe7125bf70505">Status</a></li>
+        <li class="mr-3 mr-lg-0"><a href="https://docs.github.com/en/github/site-policy/github-terms-of-service" data-hydro-click="{&quot;event_type&quot;:&quot;analytics.event&quot;,&quot;payload&quot;:{&quot;category&quot;:&quot;Footer&quot;,&quot;action&quot;:&quot;go to terms&quot;,&quot;label&quot;:&quot;text:terms&quot;,&quot;originating_url&quot;:&quot;https://github.com/lequi210922/lequi210922.github.io/blob/main/config.js&quot;,&quot;user_id&quot;:88811276}}" data-hydro-click-hmac="afa6647583d06f67ddebc599ef65a21a2f0b3640005440b304883546bd570426">Terms</a></li>
+        <li class="mr-3 mr-lg-0"><a href="https://docs.github.com/en/github/site-policy/github-privacy-statement" data-hydro-click="{&quot;event_type&quot;:&quot;analytics.event&quot;,&quot;payload&quot;:{&quot;category&quot;:&quot;Footer&quot;,&quot;action&quot;:&quot;go to privacy&quot;,&quot;label&quot;:&quot;text:privacy&quot;,&quot;originating_url&quot;:&quot;https://github.com/lequi210922/lequi210922.github.io/blob/main/config.js&quot;,&quot;user_id&quot;:88811276}}" data-hydro-click-hmac="ab90c6b926e78e72350be06ce93e20f4758d5a4a35b6821e27cd68faba9bf9f4">Privacy</a></li>
+        <li class="mr-3 mr-lg-0"><a data-hydro-click="{&quot;event_type&quot;:&quot;analytics.event&quot;,&quot;payload&quot;:{&quot;category&quot;:&quot;Footer&quot;,&quot;action&quot;:&quot;go to security&quot;,&quot;label&quot;:&quot;text:security&quot;,&quot;originating_url&quot;:&quot;https://github.com/lequi210922/lequi210922.github.io/blob/main/config.js&quot;,&quot;user_id&quot;:88811276}}" data-hydro-click-hmac="577145ab264bb80d90e4eb8f07d7dab18319c2e95580a041ff04c1225bc56190" href="https://github.com/security">Security</a></li>
+        <li class="mr-3 mr-lg-0"><a href="https://www.githubstatus.com/" data-hydro-click="{&quot;event_type&quot;:&quot;analytics.event&quot;,&quot;payload&quot;:{&quot;category&quot;:&quot;Footer&quot;,&quot;action&quot;:&quot;go to status&quot;,&quot;label&quot;:&quot;text:status&quot;,&quot;originating_url&quot;:&quot;https://github.com/lequi210922/lequi210922.github.io/blob/main/config.js&quot;,&quot;user_id&quot;:88811276}}" data-hydro-click-hmac="16d168f5a17080e5e2d364addbbfe83d3d8b330f3727341a870f2a7caecfd702">Status</a></li>
         <li><a data-ga-click="Footer, go to help, text:Docs" href="https://docs.github.com">Docs</a></li>
     </ul>
 
@@ -1570,11 +1728,11 @@
 </svg>
 </a>
     <ul class="list-style-none d-flex flex-wrap col-12 col-lg-5 flex-justify-center flex-lg-justify-between mb-2 mb-lg-0">
-        <li class="mr-3 mr-lg-0"><a href="https://support.github.com" data-hydro-click="{&quot;event_type&quot;:&quot;analytics.event&quot;,&quot;payload&quot;:{&quot;category&quot;:&quot;Footer&quot;,&quot;action&quot;:&quot;go to contact&quot;,&quot;label&quot;:&quot;text:contact&quot;,&quot;originating_url&quot;:&quot;https://github.com/lequi210922/lequi210922.github.io/blob/main/README.md&quot;,&quot;user_id&quot;:88811276}}" data-hydro-click-hmac="32303236e9da6f75b2e4ea7f072fbc7044d1868100fb1090d2c52e2cf2dba491">Contact GitHub</a></li>
-        <li class="mr-3 mr-lg-0"><a href="https://github.com/pricing" data-hydro-click="{&quot;event_type&quot;:&quot;analytics.event&quot;,&quot;payload&quot;:{&quot;category&quot;:&quot;Footer&quot;,&quot;action&quot;:&quot;go to Pricing&quot;,&quot;label&quot;:&quot;text:Pricing&quot;,&quot;originating_url&quot;:&quot;https://github.com/lequi210922/lequi210922.github.io/blob/main/README.md&quot;,&quot;user_id&quot;:88811276}}" data-hydro-click-hmac="83931f44d2cec31e1343f8cb28197cb73899dff416ab637bf1c9024225935d92">Pricing</a></li>
-      <li class="mr-3 mr-lg-0"><a href="https://docs.github.com" data-hydro-click="{&quot;event_type&quot;:&quot;analytics.event&quot;,&quot;payload&quot;:{&quot;category&quot;:&quot;Footer&quot;,&quot;action&quot;:&quot;go to api&quot;,&quot;label&quot;:&quot;text:api&quot;,&quot;originating_url&quot;:&quot;https://github.com/lequi210922/lequi210922.github.io/blob/main/README.md&quot;,&quot;user_id&quot;:88811276}}" data-hydro-click-hmac="31a94e1ee96325e845918f62c346dca85ac752cb6bc3e73ed0e250958f149a24">API</a></li>
-      <li class="mr-3 mr-lg-0"><a href="https://services.github.com" data-hydro-click="{&quot;event_type&quot;:&quot;analytics.event&quot;,&quot;payload&quot;:{&quot;category&quot;:&quot;Footer&quot;,&quot;action&quot;:&quot;go to training&quot;,&quot;label&quot;:&quot;text:training&quot;,&quot;originating_url&quot;:&quot;https://github.com/lequi210922/lequi210922.github.io/blob/main/README.md&quot;,&quot;user_id&quot;:88811276}}" data-hydro-click-hmac="46d314e01e340ecb2f7682b0d6d364c47e80be2c80b2df1847bdd58ea76b992b">Training</a></li>
-        <li class="mr-3 mr-lg-0"><a href="https://github.blog" data-hydro-click="{&quot;event_type&quot;:&quot;analytics.event&quot;,&quot;payload&quot;:{&quot;category&quot;:&quot;Footer&quot;,&quot;action&quot;:&quot;go to blog&quot;,&quot;label&quot;:&quot;text:blog&quot;,&quot;originating_url&quot;:&quot;https://github.com/lequi210922/lequi210922.github.io/blob/main/README.md&quot;,&quot;user_id&quot;:88811276}}" data-hydro-click-hmac="5ff46593aa41fe4a59861be7c65ca362d4bdedaebbbaf85fa409a10f5024da04">Blog</a></li>
+        <li class="mr-3 mr-lg-0"><a href="https://support.github.com" data-hydro-click="{&quot;event_type&quot;:&quot;analytics.event&quot;,&quot;payload&quot;:{&quot;category&quot;:&quot;Footer&quot;,&quot;action&quot;:&quot;go to contact&quot;,&quot;label&quot;:&quot;text:contact&quot;,&quot;originating_url&quot;:&quot;https://github.com/lequi210922/lequi210922.github.io/blob/main/config.js&quot;,&quot;user_id&quot;:88811276}}" data-hydro-click-hmac="8906c4d38f88a9c10341ca8a41e748c73a1c11d33cee4d116d3ccbfdb3ab5eb7">Contact GitHub</a></li>
+        <li class="mr-3 mr-lg-0"><a href="https://github.com/pricing" data-hydro-click="{&quot;event_type&quot;:&quot;analytics.event&quot;,&quot;payload&quot;:{&quot;category&quot;:&quot;Footer&quot;,&quot;action&quot;:&quot;go to Pricing&quot;,&quot;label&quot;:&quot;text:Pricing&quot;,&quot;originating_url&quot;:&quot;https://github.com/lequi210922/lequi210922.github.io/blob/main/config.js&quot;,&quot;user_id&quot;:88811276}}" data-hydro-click-hmac="0acba9a8021c147d5bb9c8ff6e1ea0d870f638ef1916c8ee444de50955ac73eb">Pricing</a></li>
+      <li class="mr-3 mr-lg-0"><a href="https://docs.github.com" data-hydro-click="{&quot;event_type&quot;:&quot;analytics.event&quot;,&quot;payload&quot;:{&quot;category&quot;:&quot;Footer&quot;,&quot;action&quot;:&quot;go to api&quot;,&quot;label&quot;:&quot;text:api&quot;,&quot;originating_url&quot;:&quot;https://github.com/lequi210922/lequi210922.github.io/blob/main/config.js&quot;,&quot;user_id&quot;:88811276}}" data-hydro-click-hmac="f43f8ff5a7b68ffb0f1ec60b52e00c581b5728ee8b65645825b86595d1ac232a">API</a></li>
+      <li class="mr-3 mr-lg-0"><a href="https://services.github.com" data-hydro-click="{&quot;event_type&quot;:&quot;analytics.event&quot;,&quot;payload&quot;:{&quot;category&quot;:&quot;Footer&quot;,&quot;action&quot;:&quot;go to training&quot;,&quot;label&quot;:&quot;text:training&quot;,&quot;originating_url&quot;:&quot;https://github.com/lequi210922/lequi210922.github.io/blob/main/config.js&quot;,&quot;user_id&quot;:88811276}}" data-hydro-click-hmac="6f4d568f69def1c8c6056c2432a0708f4c9d879cc0c46cb3d3fd71e429122298">Training</a></li>
+        <li class="mr-3 mr-lg-0"><a href="https://github.blog" data-hydro-click="{&quot;event_type&quot;:&quot;analytics.event&quot;,&quot;payload&quot;:{&quot;category&quot;:&quot;Footer&quot;,&quot;action&quot;:&quot;go to blog&quot;,&quot;label&quot;:&quot;text:blog&quot;,&quot;originating_url&quot;:&quot;https://github.com/lequi210922/lequi210922.github.io/blob/main/config.js&quot;,&quot;user_id&quot;:88811276}}" data-hydro-click-hmac="a782a3c2e79c190c71e592329f6fdc9439421d34b27a02af3e69e4d9285621a8">Blog</a></li>
         <li><a data-ga-click="Footer, go to about, text:about" href="https://github.com/about">About</a></li>
     </ul>
   </div>
